@@ -15,17 +15,6 @@ Welcome to the Robot Perception and Learning (RPL) Lab at the University of Texa
 
 
 ---
-## Stanford Robotics Center
-https://src.stanford.edu
-
-The Stanford Robotics Center brings together cross-disciplinary world-class researchers and industrial affiliates with a shared vision of robotics' future
-
-
-* **Stanford Robotics Center - Contributing Labs**
-  * https://src.stanford.edu/labs
-  * The member labs of the Stanford Robotics Center are from across the departments of Aeronautics and Astronautics, Bioengineering, Bio-X, Civil and Environmental Engineering, Computer Science, Electrical Engineering, Mechanical Engineering, and Radiology.
-
----
 ## NVIDIA GEAR group (Generalist Embodied Agent Research)
 https://research.nvidia.com/labs/gear/ 
  
@@ -41,8 +30,13 @@ Building Generally Capable Agents in Many Worlds, Virtual and RealNVIDIA GEAR gr
   * MIT's largest research center, CSAIL is legendary for foundational work in AI, soft robotics, and robotic manipulation.
 * **ETH Zurich - [Autonomous Systems Lab (ASL)](https://asl.ethz.ch/) (Switzerland)**
   * A global leader in drone technology, mobile robotics, and field robotics, known for high industry integration.
-* **Stanford University - [Stanford Artificial Intelligence Laboratory (SAIL)](https://www.stanford.edu/) (USA)**
+* **Stanford University - [Stanford Artificial Intelligence Laboratory (SAIL)](https://ai.stanford.edu/) (USA)**
   * Renowned for its interdisciplinary approach combining AI, mechanical engineering, and computer science, and its strong historical ties to the development of the Robot Operating System (ROS).
+* **Stanford University - [[Robotics Center]](https://src.stanford.edu)**
+  * The Stanford Robotics Center brings together cross-disciplinary world-class researchers and industrial affiliates with a shared vision of robotics' future
+  * **Stanford Robotics Center - Contributing Labs**
+    * https://src.stanford.edu/labs
+    * The member labs of the Stanford Robotics Center are from across the departments of Aeronautics and Astronautics, Bioengineering, Bio-X, Civil and Environmental Engineering, Computer Science, Electrical Engineering, Mechanical Engineering, and Radiology.
 * **University of Pennsylvania - [GRASP Lab](https://www.grasp.upenn.edu/) (USA)**
   * The General Robotics, Automation, Sensing & Perception (GRASP) Lab is a premier hub for research in multi-robot systems, perception, and control.
   * Virtual GRASP Demo Videos [[Links]](https://www.grasp.upenn.edu/innovation-engagement/k-12-outreach/virtual-grasp-tour-videos/)
