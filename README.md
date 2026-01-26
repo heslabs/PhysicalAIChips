@@ -16,7 +16,7 @@
 * MemryX | Revolutionary Edge AI Made Easy
   * https://github.com/heslabs/PhysicalAIChips/blob/main/MemryX.md
 * Rockchip | 瑞芯微电子股份有限公司
- * https://github.com/heslabs/PhysicalAIChips/blob/main/Rockchips.md
+  * https://github.com/heslabs/PhysicalAIChips/blob/main/Rockchips.md
 
 ---
 ## AI Chip Landscape
