@@ -58,22 +58,14 @@ Specialized & Regional Leaders
 
 Top academic robotics research labs in China are led by institutions like the Shenyang Institute of Automation (CAS), Harbin Institute of Technology, and top universities such as Tsinghua, Shanghai Jiao Tong, and Zhejiang University. Key labs, including the State Key Laboratory of Robotics, focus on autonomous systems, industrial automation, and AI-driven robotics. 
 
-* **Shenyang Institute of Automation (SIA), Chinese Academy of Sciences (CAS)**
-  * Recognized as one of the foremost, if not the premier, robotics research institution in China, hosting multiple national labs focused on robot design, underwater vehicles, and industrial automation.
-* **State Key Laboratory of Robotics and Systems (Harbin Institute of Technology - HIT)**
-  * Established in 1986, this is one of the earliest and most prestigious laboratories in China, focusing on space robotics, industrial robots, and micro-nano systems.
-* **Tsinghua University (Beijing)**
-  * Known for advanced research in humanoid robots, AI-driven automation, and intelligent unmanned systems.
-* **Shanghai Jiao Tong University (SJTU - Shanghai)**
-  * Renowned for industrial robot research, intelligent control, and strong partnerships with industry.
-* **Zhejiang University (ZJU - Hangzhou)**
-  * A pioneer in robotics since the 1980s, focusing on artificial intelligence, intelligent robots, and advanced, flexible manufacturing.
-* **Robotics & AI Lab - CUHK (Shenzhen)**
-  * Known for research in modular self-reconfigurable robots, winning international awards for robot mechanisms.
-* **Autonomous Robots Lab (ARL), Peking University**
-  * Specializes in planning and perception for intelligent, autonomous systems.
-* **Zhejiang Lab (Intelligent Robotic Research Center)**
-  * A major, relatively new cross-disciplinary research hub focusing on intelligent robots in unstructured environments.
- 
-  
+* **State Key Laboratory of Robotics and Systems (Harbin Institute of Technology)**
+  * Originating from one of China's earliest robotics institutions (established in 1986), this lab focuses on strategic, cutting-edge research in robotic mechanisms, intelligent perception, human-robot interaction, and systems integration. Its achievements have supported major national projects, including China's manned spaceflight and lunar exploration programs.
+* **Vision and Robotics Lab (Tsinghua University)**
+  * As part of China's top-ranked university for robotics, this lab is involved in a wide range of advanced robotics projects and leverages strong industry connections through initiatives like the Tianjin High-end equipment Research Institute of Tsinghua University.
+* **Research Center for Intelligent Robotics (Zhejiang Lab, affiliated with Zhejiang University)**
+  * Zhejiang University was a pioneer in Chinese robotics research in the early 1980s, producing one of the earliest domestic hydraulic mechanical arms. This research center focuses on intelligent low-altitude manned aircraft, bipedal robots, space robots, and cloud control platforms. They also collaborate internationally, for example with the University of Technology, Sydney.
+* **Robotics & AI Lab (Chinese University of Hong Kong, Shenzhen)**
+  * Led by academician Yangsheng Xu, this lab has a long history of research in robotics, artificial intelligence, and human-machine interface, winning international awards for their work on modular self-reconfigurable robots.
+* **Robotics and Intelligent Machines (Shanghai Jiao Tong University)**
+  * Known for close collaborations with advanced industries in China, the university's research in robotics and AI benefits from strong ties with tech companies, offering significant research and internship opportunities. 
 
