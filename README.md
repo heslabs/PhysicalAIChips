@@ -12,7 +12,7 @@
   * https://github.com/heslabs/PhysicalAIChips/blob/main/SiMa.md
     
 ---
-### M.2 Acceelrator 
+### M.2 Accelerator 
 * Hailo AI | Edge AI Processors
   * https://github.com/heslabs/PhysicalAIChips/blob/main/Hailo.md
 * Axelera AI | High-performance Edge AI
