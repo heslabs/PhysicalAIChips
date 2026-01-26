@@ -2,25 +2,18 @@
 
 ---
 ### Physical AI SoC Chips
-* Nvidia Jetson Thor | Advanced AI for Physical Robotics
-  * https://github.com/heslabs/PhysicalAIChips/blob/main/NVIDIA.md
-* Qualcomm Dragonwing | Robotics and Drones
-  * https://github.com/heslabs/PhysicalAIChips/blob/main/Qualcomm.md
-* Rockchip | 瑞芯微电子股份有限公司
-  * https://github.com/heslabs/PhysicalAIChips/blob/main/Rockchips.md
-* SiMa.ai | Scaling Physical AI
-  * https://github.com/heslabs/PhysicalAIChips/blob/main/SiMa.md
-    
+* Nvidia Jetson Thor | Advanced AI for Physical Robotics [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/NVIDIA.md)
+* Qualcomm Dragonwing | Robotics and Drones [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/Qualcomm.md)
+* Rockchip | 瑞芯微电子股份有限公司 [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/Rockchips.md)
+* SiMa.ai | Scaling Physical AI [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/SiMa.md)
+  
 ---
 ### M.2 AI Accelerator 
-* Hailo AI | Edge AI Processors
-  * https://github.com/heslabs/PhysicalAIChips/blob/main/Hailo.md
-* Axelera AI | High-performance Edge AI
-  * https://github.com/heslabs/PhysicalAIChips/blob/main/AxeleraAI.md
-* MemryX | Revolutionary Edge AI Made Easy
-  * https://github.com/heslabs/PhysicalAIChips/blob/main/MemryX.md
+* Hailo AI | Edge AI Processors [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/Hailo.md)
+* Axelera AI | High-performance Edge AI [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/AxeleraAI.md)
+* MemryX | Revolutionary Edge AI Made Easy [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/MemryX.md)
  
-
+ 
 ---
 ## AI Chip Landscape
 
