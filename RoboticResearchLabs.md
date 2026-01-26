@@ -44,7 +44,8 @@ Building Generally Capable Agents in Many Worlds, Virtual and RealNVIDIA GEAR gr
 * **Stanford University**
   * [Stanford Artificial Intelligence Laboratory (SAIL)](https://www.stanford.edu/) (USA): Renowned for its interdisciplinary approach combining AI, mechanical engineering, and computer science, and its strong historical ties to the development of the Robot Operating System (ROS).
 * **University of Pennsylvania**
-  * [GRASP Lab](https://www.grasp.upenn.edu/) (USA): The General Robotics, Automation, Sensing & Perception (GRASP) Lab is a premier hub for research in multi-robot systems, perception, and control. 
+  * [GRASP Lab](https://www.grasp.upenn.edu/) (USA): The General Robotics, Automation, Sensing & Perception (GRASP) Lab is a premier hub for research in multi-robot systems, perception, and control.
+  * Virtual GRASP Demo Videos [[Links]](https://www.grasp.upenn.edu/innovation-engagement/k-12-outreach/virtual-grasp-tour-videos/)
 
 Specialized & Regional Leaders
 * Humanoid Robotics: University of Tokyo is a global pioneer in humanoid design, while Seoul National University leads in soft robotics and humanoid interaction.
