@@ -21,7 +21,7 @@ Building Generally Capable Agents in Many Worlds, Virtual and RealNVIDIA GEAR gr
   * Renowned for its interdisciplinary approach combining AI, mechanical engineering, and computer science, and its strong historical ties to the development of the Robot Operating System (ROS).
 * **Stanford University - [[Robotics Center]](https://src.stanford.edu)**
   * The Stanford Robotics Center brings together cross-disciplinary world-class researchers and industrial affiliates with a shared vision of robotics' future
-  * **Stanford Robotics Center - Contributing Labs**
+  * Stanford Robotics Center - Contributing Labs
     * https://src.stanford.edu/labs
     * The member labs of the Stanford Robotics Center are from across the departments of Aeronautics and Astronautics, Bioengineering, Bio-X, Civil and Environmental Engineering, Computer Science, Electrical Engineering, Mechanical Engineering, and Radiology.
 * **University of Pennsylvania - [GRASP Lab](https://www.grasp.upenn.edu/) (USA)**
