@@ -1,4 +1,19 @@
-# AI Chip Landscape
+# Physical AI Chips
+
+---
+## Physical AI Chips
+
+* Nvidia Jetson Thor | Advanced AI for Physical Robotics
+  * https://github.com/heslabs/PhysicalAIChips/blob/main/NVIDIA.md
+* Hailo AI
+  * https://github.com/heslabs/PhysicalAIChips/blob/main/Hailo.md
+* Axelera AI
+  * https://github.com/heslabs/PhysicalAIChips/blob/main/AxeleraAI.md
+* SiMa.ai: Scaling Physical AI
+  * https://github.com/heslabs/PhysicalAIChips/blob/main/SiMa.md
+
+---
+## AI Chip Landscape
 
 * AI Chip (ICs and IPs) by Shan Tang [[GitHub]](https://basicmi.github.io/AI-Chip/)
 * AI Chip Landscape (2019.04) by Shan Tang [[Medium]](https://medium.com/@shan.tang.g/ai-chip-landscape-7bc9d1ab5c43)
@@ -9,7 +24,7 @@
 
 
 ---
-# AI Software Landscape
+## AI Software Landscape
 
 * Artificial Intelligence Startups & Companies (athivvat) [[GitHub]](https://github.com/athivvat/ai-startups)
 * AI leads a service-as-software paradigm shift [[Link]](https://foundationcapital.com/ai-service-as-software/?fbclid=IwY2xjawHXqMhleHRuA2FlbQIxMQABHeX1T3x7St9p9z089_WU1NJoXf1mr9qPnDv8CTHDc8Kn34v5oY-qBLEN0g_aem_RI_0iVi_F2yjnBAzYNumoQ)
