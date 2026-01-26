@@ -11,6 +11,8 @@
   * https://github.com/heslabs/PhysicalAIChips/blob/main/AxeleraAI.md
 * SiMa.ai | Scaling Physical AI
   * https://github.com/heslabs/PhysicalAIChips/blob/main/SiMa.md
+* MemryX | Revolutionary Edge AI Made Easy
+  * https://github.com/heslabs/PhysicalAIChips/blob/main/MemryX.md
 
 ---
 ## AI Chip Landscape
