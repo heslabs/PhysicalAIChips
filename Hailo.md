@@ -1,7 +1,7 @@
 # Hailo
 
 ---
-## Hailo AI on the Edge Processors | Edge AI Chip Solutions
+## Hailo AI on the Edge Processors
 https://hailo.ai/
 
 
