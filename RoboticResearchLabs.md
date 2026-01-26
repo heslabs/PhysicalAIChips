@@ -21,8 +21,9 @@ https://src.stanford.edu
 The Stanford Robotics Center brings together cross-disciplinary world-class researchers and industrial affiliates with a shared vision of robotics' future
 
 
-#### Stanford Robotics Center - Contributing Labs
-The member labs of the Stanford Robotics Center are from across the departments of Aeronautics and Astronautics, Bioengineering, Bio-X, Civil and Environmental Engineering, Computer Science, Electrical Engineering, Mechanical Engineering, and Radiology.
+* **Stanford Robotics Center - Contributing Labs**
+  * https://src.stanford.edu/labs
+  * The member labs of the Stanford Robotics Center are from across the departments of Aeronautics and Astronautics, Bioengineering, Bio-X, Civil and Environmental Engineering, Computer Science, Electrical Engineering, Mechanical Engineering, and Radiology.
 
 ---
 ## NVIDIA GEAR group (Generalist Embodied Agent Research)
