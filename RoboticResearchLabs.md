@@ -51,3 +51,29 @@ Specialized & Regional Leaders
 * Autonomous Systems: University of Michigan (UMich Robotics) and University of Oxford (Oxford Robotics Institute) are recognized for breakthroughs in autonomous vehicles and mobile autonomy.
 * European Powerhouses: EPFL (Switzerland) excels in educational and bio-inspired robotics, and TU Munich is noted for its cognitive robotics and strong industry partnerships.
 * United Kingdom: The Bristol Robotics Laboratory (BRL) is Europe's largest robotics research center, specializing in swarm intelligence and human-robot interaction.
+
+
+---
+### Robotics Research Labs in China
+
+Top academic robotics research labs in China are led by institutions like the Shenyang Institute of Automation (CAS), Harbin Institute of Technology, and top universities such as Tsinghua, Shanghai Jiao Tong, and Zhejiang University. Key labs, including the State Key Laboratory of Robotics, focus on autonomous systems, industrial automation, and AI-driven robotics. 
+
+* Shenyang Institute of Automation (SIA), Chinese Academy of Sciences (CAS)
+  * Recognized as one of the foremost, if not the premier, robotics research institution in China, hosting multiple national labs focused on robot design, underwater vehicles, and industrial automation.
+* State Key Laboratory of Robotics and Systems (Harbin Institute of Technology - HIT)
+  * Established in 1986, this is one of the earliest and most prestigious laboratories in China, focusing on space robotics, industrial robots, and micro-nano systems.
+* Tsinghua University (Beijing)
+  * Known for advanced research in humanoid robots, AI-driven automation, and intelligent unmanned systems.
+* Shanghai Jiao Tong University (SJTU - Shanghai)
+  * Renowned for industrial robot research, intelligent control, and strong partnerships with industry.
+* Zhejiang University (ZJU - Hangzhou)
+  * A pioneer in robotics since the 1980s, focusing on artificial intelligence, intelligent robots, and advanced, flexible manufacturing.
+* Robotics & AI Lab - CUHK(SZ)
+  * Known for research in modular self-reconfigurable robots, winning international awards for robot mechanisms.
+* Autonomous Robots Lab (ARL)
+  * Peking University: Specializes in planning and perception for intelligent, autonomous systems.
+* Zhejiang Lab (Intelligent Robotic Research Center)
+  * A major, relatively new cross-disciplinary research hub focusing on intelligent robots in unstructured environments.
+ 
+  
+
