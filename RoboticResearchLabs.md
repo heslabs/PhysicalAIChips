@@ -68,7 +68,7 @@ Top academic robotics research labs in China are led by institutions like the Sh
   * Renowned for industrial robot research, intelligent control, and strong partnerships with industry.
 * **Zhejiang University (ZJU - Hangzhou)**
   * A pioneer in robotics since the 1980s, focusing on artificial intelligence, intelligent robots, and advanced, flexible manufacturing.
-* **Robotics & AI Lab - CUHK(SZ)**
+* **Robotics & AI Lab - CUHK (Shenzhen)**
   * Known for research in modular self-reconfigurable robots, winning international awards for robot mechanisms.
 * **Autonomous Robots Lab (ARL), Peking University**
   * Specializes in planning and perception for intelligent, autonomous systems.
