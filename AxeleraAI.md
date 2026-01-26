@@ -1,7 +1,7 @@
 # Axelera AI
 
 ---
-## Axelera AI - High-performance Edge AI - Power-Efficient AI Accelerator
+## Axelera AI - High-performance Edge AI
 https://axelera.ai/
 
 
