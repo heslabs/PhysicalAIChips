@@ -62,10 +62,23 @@ Top academic robotics research labs in China are led by institutions like the Sh
   * Originating from one of China's earliest robotics institutions (established in 1986), this lab focuses on strategic, cutting-edge research in robotic mechanisms, intelligent perception, human-robot interaction, and systems integration. Its achievements have supported major national projects, including China's manned spaceflight and lunar exploration programs.
 * **Vision and Robotics Lab (Tsinghua University)**
   * As part of China's top-ranked university for robotics, this lab is involved in a wide range of advanced robotics projects and leverages strong industry connections through initiatives like the Tianjin High-end equipment Research Institute of Tsinghua University.
-* **Research Center for Intelligent Robotics (Zhejiang Lab, affiliated with Zhejiang University)**
+* **Zhejiang Lab - Research Center for Intelligent Robotics (Zhejiang University)**
+  * https://en.zhejianglab.com/
   * Zhejiang University was a pioneer in Chinese robotics research in the early 1980s, producing one of the earliest domestic hydraulic mechanical arms. This research center focuses on intelligent low-altitude manned aircraft, bipedal robots, space robots, and cloud control platforms. They also collaborate internationally, for example with the University of Technology, Sydney.
 * **Robotics & AI Lab (Chinese University of Hong Kong, Shenzhen)**
   * Led by academician Yangsheng Xu, this lab has a long history of research in robotics, artificial intelligence, and human-machine interface, winning international awards for their work on modular self-reconfigurable robots.
 * **Robotics and Intelligent Machines (Shanghai Jiao Tong University)**
   * Known for close collaborations with advanced industries in China, the university's research in robotics and AI benefits from strong ties with tech companies, offering significant research and internship opportunities. 
+
+---
+### Podcast 
+
+* 机器人博士前两年总结——任尔东西南北风
+  * https://www.youtube.com/watch?v=ONjYMuZruys 
+* 翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华
+  * https://www.youtube.com/watch?v=I0DrcsDf3Os 
+* 杨硕：妙动科技，特斯拉Optimus，CMU大疆，无人机，人形机器人
+  * https://www.youtube.com/watch?v=Zn8EYNFRMGs 
+* 胡渊鸣：Meshy AI，太极，MIT，清华姚班，图形学，物理仿真模拟，开源，商业化，勇气 ，智慧
+  * https://www.youtube.com/watch?v=6EyUOLGsuk4 
 
