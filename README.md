@@ -5,6 +5,8 @@
 
 * Nvidia Jetson Thor | Advanced AI for Physical Robotics
   * https://github.com/heslabs/PhysicalAIChips/blob/main/NVIDIA.md
+* Qualcomm Dragonwing | Robotics and Drones
+  * https://github.com/heslabs/PhysicalAIChips/blob/main/Qualcomm.md
 * Hailo AI | Edge AI Processors
   * https://github.com/heslabs/PhysicalAIChips/blob/main/Hailo.md
 * Axelera AI | High-performance Edge AI
