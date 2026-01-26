@@ -5,11 +5,11 @@
 
 * Nvidia Jetson Thor | Advanced AI for Physical Robotics
   * https://github.com/heslabs/PhysicalAIChips/blob/main/NVIDIA.md
-* Hailo AI on the Edge Processors
+* Hailo AI | Edge AI Processors
   * https://github.com/heslabs/PhysicalAIChips/blob/main/Hailo.md
-* Axelera AI
+* Axelera AI | High-performance Edge AI
   * https://github.com/heslabs/PhysicalAIChips/blob/main/AxeleraAI.md
-* SiMa.ai: Scaling Physical AI
+* SiMa.ai | Scaling Physical AI
   * https://github.com/heslabs/PhysicalAIChips/blob/main/SiMa.md
 
 ---
