@@ -74,7 +74,13 @@ Top academic robotics research labs in China are led by institutions like the Sh
 ### Podcast 
 
 * 机器人博士前两年总结——任尔东西南北风
-  * https://www.youtube.com/watch?v=ONjYMuZruys 
+  * https://www.youtube.com/watch?v=ONjYMuZruys
+  * Papers
+    * Agile but safe: Learning collision-free high-speed legged locomotion, RSS 2024
+    * Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation, IROS 2024
+    * OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning, CoRL 2024
+    * HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, ICRA 2025
+    * ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, RSS 2025
 * 翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华
   * https://www.youtube.com/watch?v=I0DrcsDf3Os 
 * 杨硕：妙动科技，特斯拉Optimus，CMU大疆，无人机，人形机器人
