@@ -35,16 +35,16 @@ Building Generally Capable Agents in Many Worlds, Virtual and RealNVIDIA GEAR gr
 ---
 ## Premier Global Robotics Labs
 
-* **Carnegie Mellon University**
+* **Carnegie Mellon University - [The Robotics Institute](https://www.ri.cmu.edu/) (USA)**
   * [The Robotics Institute](https://www.ri.cmu.edu/) (USA): Established in 1979 as the first robotics department in the U.S., it is widely considered the world's most comprehensive robotics research center.
-* **MIT**
-  * [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu/) (USA): MIT's largest research center, CSAIL is legendary for foundational work in AI, soft robotics, and robotic manipulation.
-* **ETH Zurich**
-  * [Autonomous Systems Lab (ASL)](https://asl.ethz.ch/) (Switzerland): A global leader in drone technology, mobile robotics, and field robotics, known for high industry integration.
-* **Stanford University**
-  * [Stanford Artificial Intelligence Laboratory (SAIL)](https://www.stanford.edu/) (USA): Renowned for its interdisciplinary approach combining AI, mechanical engineering, and computer science, and its strong historical ties to the development of the Robot Operating System (ROS).
-* **University of Pennsylvania**
-  * [GRASP Lab](https://www.grasp.upenn.edu/) (USA): The General Robotics, Automation, Sensing & Perception (GRASP) Lab is a premier hub for research in multi-robot systems, perception, and control.
+* **MIT - [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu/) (USA)**
+  * MIT's largest research center, CSAIL is legendary for foundational work in AI, soft robotics, and robotic manipulation.
+* **ETH Zurich - [Autonomous Systems Lab (ASL)](https://asl.ethz.ch/) (Switzerland)**
+  * A global leader in drone technology, mobile robotics, and field robotics, known for high industry integration.
+* **Stanford University [Stanford Artificial Intelligence Laboratory (SAIL)](https://www.stanford.edu/) (USA)**
+  * Renowned for its interdisciplinary approach combining AI, mechanical engineering, and computer science, and its strong historical ties to the development of the Robot Operating System (ROS).
+* **University of Pennsylvania - [GRASP Lab](https://www.grasp.upenn.edu/) (USA)**
+  * The General Robotics, Automation, Sensing & Perception (GRASP) Lab is a premier hub for research in multi-robot systems, perception, and control.
   * Virtual GRASP Demo Videos [[Links]](https://www.grasp.upenn.edu/innovation-engagement/k-12-outreach/virtual-grasp-tour-videos/)
 
 Specialized & Regional Leaders
