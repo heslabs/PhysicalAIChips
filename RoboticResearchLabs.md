@@ -2,19 +2,6 @@
 
 
 ---
-## Robotics Institute Carnegie Mellon University (CMU)
-https://www.ri.cmu.edu/ 
-
-The Robotics Institute at Carnegie Mellon University brings together the top scientific minds, intent on solving humanity’s toughest challenges through robotics. Encompassing the practical and the theoretical, we push the boundaries of collaboration to develop interdisciplinary solutions touching nearly every aspect of human life—making things safer, more efficient and more productive. We educate, mentor and empower the brightest and most ambitious roboticists to anticipate the future, and then to build the robotics we need to take us there.
-
----
-## UT Austin Robot Perception and Learning Lab
-https://rpl.cs.utexas.edu/
-
-Welcome to the Robot Perception and Learning (RPL) Lab at the University of Texas at Austin! Our research focuses on two intimately connected research threads: Robotics and Embodied AI. We investigate the synergistic relations of perception and action in embodied agents and build algorithms and systems that give rise to general-purpose robot autonomy.
-
-
----
 ## NVIDIA GEAR group (Generalist Embodied Agent Research)
 https://research.nvidia.com/labs/gear/ 
  
@@ -40,6 +27,9 @@ Building Generally Capable Agents in Many Worlds, Virtual and RealNVIDIA GEAR gr
 * **University of Pennsylvania - [GRASP Lab](https://www.grasp.upenn.edu/) (USA)**
   * The General Robotics, Automation, Sensing & Perception (GRASP) Lab is a premier hub for research in multi-robot systems, perception, and control.
   * Virtual GRASP Demo Videos [[Links]](https://www.grasp.upenn.edu/innovation-engagement/k-12-outreach/virtual-grasp-tour-videos/)
+* **UT Austin - [[Robot Perception and Learning Lab]](https://rpl.cs.utexas.edu/)**
+  * Our research focuses on two intimately connected research threads: Robotics and Embodied AI. We investigate the synergistic relations of perception and action in embodied agents and build algorithms and systems that give rise to general-purpose robot autonomy.
+
 
 ---
 ### Specialized & Regional Leaders
