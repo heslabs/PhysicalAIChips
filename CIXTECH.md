@@ -16,6 +16,7 @@ https://radxa.com/products/orion/o6/
 * Quad Medium Cortex®-A720 Up to 2.4GHz
 * Quad Little Cortex®-A520 1.8GHz
 * 12MB L3 shared across all cores
+* 128bit LPDDR5, Frequency 5500MT/s, Up to 64GB, 96GB/s Memory Bandwidth
 
 ---
 <img width="450" height="900" alt="image" src="https://github.com/user-attachments/assets/038c062c-fc14-4a85-bfb4-ee1346efd540" />
@@ -25,6 +26,11 @@ https://radxa.com/products/orion/o6/
 ---
 <img width="850" height="1144" alt="image" src="https://github.com/user-attachments/assets/4a33f601-e5e1-47ba-ae2f-4abfafb4506c" />
 
+---
+<img width="850" height="871" alt="image" src="https://github.com/user-attachments/assets/7ac226c2-0528-4869-902f-5446ecbdf21e" />
+
+---
+<img width="850" height="783" alt="image" src="https://github.com/user-attachments/assets/750d1567-0a46-4c38-83ef-d6007ca67b4a" />
 
 
 ---
