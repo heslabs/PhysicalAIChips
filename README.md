@@ -6,7 +6,7 @@
 * Qualcomm Dragonwing | Robotics and Drones [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/Qualcomm.md)
 * Rockchip | 瑞芯微电子股份有限公司 [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/Rockchips.md)
 * SiMa.ai | Scaling Physical AI [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/SiMa.md)
-* Cixtech 此芯科技 - Radax Orion [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/CIXTECH.md)
+* Cixtech 此芯科技 | Radax Orion [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/CIXTECH.md)
   
 ---
 ### M.2 AI Accelerator 
