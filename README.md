@@ -5,7 +5,7 @@
 * Nvidia Jetson Thor | Advanced AI for Physical Robotics [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/NVIDIA.md)
 * Qualcomm Dragonwing | Robotics and Drones [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/Qualcomm.md)
 * MediaTek Genio 1200 | Intelligent IoT Platform & SoCs [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/Mediatek.md)
-* Rockchip | 瑞芯微电子股份有限公司 [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/Rockchips.md)
+* Rockchip | 瑞芯微电子 [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/Rockchips.md)
 * SiMa.ai | Scaling Physical AI [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/SiMa.md)
 * Cixtech 此芯科技 | Radax Orion [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/CIXTECH.md)
   
