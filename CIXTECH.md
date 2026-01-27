@@ -7,7 +7,25 @@ https://www.cixtech.com
 Founded in 2021, CIX Technology brings together industry veterans in chip design, software ecosystems, and device solutions from both domestic and international industries. Leveraging innovative and forward-thinking concepts, the company designs and develops advanced, high-efficiency, intelligent general-purpose CPUs, empowering sectors such as personal computing, automotive applications, and metaverse infrastructure development. CIX Technology is committed to providing society with low-power intelligent computing solutions. The company is collaborating with leading global commercial clients and ecosystem partners to build an open ecosystem with a unified computing foundation, creating a new paradigm for Smart Chip 2.0.
 
 此芯科技成立于2021年，汇集国内外芯片设计、软件生态和终端应用的业界资深人才，运用创新、前瞻的构想，设计和研发业界先进的高能效、智能化的通用CPU，赋能个人计算、车载 ..
- 
+
+---
+### Radax Orion 06
+https://radxa.com/products/orion/o6/
+
+* Quad Big Cortex®-A720 Up to 2.6GHz
+* Quad Medium Cortex®-A720 Up to 2.4GHz
+* Quad Little Cortex®-A520 1.8GHz
+* 12MB L3 shared across all cores
+
+---
+<img width="450" height="900" alt="image" src="https://github.com/user-attachments/assets/038c062c-fc14-4a85-bfb4-ee1346efd540" />
+<img width="450" height="816" alt="image" src="https://github.com/user-attachments/assets/168a22a5-47bf-4c3b-acfe-4f38895824f5" />
+
+
+---
+<img width="850" height="1144" alt="image" src="https://github.com/user-attachments/assets/4a33f601-e5e1-47ba-ae2f-4abfafb4506c" />
+
+
 
 ---
 ### CA8180 - Automotive Computing Platform
