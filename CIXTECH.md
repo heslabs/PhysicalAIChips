@@ -3,6 +3,20 @@
 ---
 ### cixtech 此芯科技
 https://www.cixtech.com
- 
+
+Founded in 2021, CIX Technology brings together industry veterans in chip design, software ecosystems, and device solutions from both domestic and international industries. Leveraging innovative and forward-thinking concepts, the company designs and develops advanced, high-efficiency, intelligent general-purpose CPUs, empowering sectors such as personal computing, automotive applications, and metaverse infrastructure development. CIX Technology is committed to providing society with low-power intelligent computing solutions. The company is collaborating with leading global commercial clients and ecosystem partners to build an open ecosystem with a unified computing foundation, creating a new paradigm for Smart Chip 2.0.
+
 此芯科技成立于2021年，汇集国内外芯片设计、软件生态和终端应用的业界资深人才，运用创新、前瞻的构想，设计和研发业界先进的高能效、智能化的通用CPU，赋能个人计算、车载 ..
  
+
+---
+### CA8180 - Automotive Computing Platform
+
+目前，此芯科技主要产品是CP/CD8180代号P1，CA8180是车载版，从型号上推测两者应该相差无几，P代表PC，A代表Automotive，目前没有CA8180的官方信息，只能根据CP/CD8180推测。此芯科技目前和Radxa合作，推出基于P1的主板，即Radxa Orion 06
+
+
+* 力压高通SA8295，国产最强汽车系统SoC芯片—此芯科技CA8180
+  * https://www.sohu.com/a/845828075_121124477
+  * AI算力是45TOPs, 支持百亿参数大模型，使用15亿参数Qwen，每秒30 tokens
+  * 大核心与中核心都是Cortex-A720
+  * GPU是ARM的Immortalis-G720，这是桌面级GPU，12核心1Ghz频率下有2400GFLOPS的性能，和高通的SA8295有差距，但已经是国产芯片的4-8倍以上了
