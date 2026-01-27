@@ -49,7 +49,12 @@ The power behind this SBC is the CD8180 SoC, made by CIX. This chip offers 12 CP
 
 
 ---
-<img width="450" height="466" alt="image" src="https://github.com/user-attachments/assets/00a70111-d554-4d47-aab5-82df853485e6" />
+
+<img width="650" height="646" alt="image" src="https://github.com/user-attachments/assets/e3adc902-9be7-4b0e-a372-c60b21ed0c49" />
+
+
+---
+<img width="650" height="466" alt="image" src="https://github.com/user-attachments/assets/00a70111-d554-4d47-aab5-82df853485e6" />
 
 
 ---
