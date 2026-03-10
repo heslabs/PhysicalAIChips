@@ -14,6 +14,8 @@
 * Hailo AI | Edge AI Processors [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/Hailo.md)
 * Axelera AI | High-performance Edge AI [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/AxeleraAI.md)
 * MemryX | Revolutionary Edge AI Made Easy [[Page]](https://github.com/heslabs/PhysicalAIChips/blob/main/MemryX.md)
+* Houmo AI (后摩智能) |
+ 
  
  
 ---
